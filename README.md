@@ -1,5 +1,7 @@
 # SJTU-CS339
 For group project of Computer Network on an analysis of mobility in a campus Wireless Network.
+
+We have established a mathematical model which is more suitable for simulating SJTU's campus network on the basis of the model discussed in the paper, and processed SJTU's data set and analyzed the statistics of SJTU's campus network.
 ## Details Of preprocess_SJTU_data.py
 
 ### Variables
