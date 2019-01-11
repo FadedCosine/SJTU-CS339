@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import scipy.stats as st
 
-path1 = "../SJTU-WiFi-clients-data"
+path1 = "/SJTU-WiFi-clients-data"
 minDuration = 10 #表示视为有效连接是，要求持续连接的最小值， 取值由draw_vaild_connect 函数所画的图像确定。
 #因为有一些日期的连接信息不完整，经过不同日期的数据对比和完整性分析，我们选择了工作日和周末的日期如下
 weekday = ['2018-05-14', '2018-05-15', '2018-05-16', '2018-05-17', '2018-05-18']
