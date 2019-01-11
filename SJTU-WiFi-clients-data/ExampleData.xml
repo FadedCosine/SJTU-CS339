@@ -1,0 +1,892 @@
+<ns0:amp_client_detail xmlns:ns0="http://www.airwave.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1" xsi:schemaLocation="http://www.airwave.com amp_client_detail.xsd">
+  <client mac="00:0A:F5:8A:2F:89">
+    <assoc_stat>false</assoc_stat>
+    <association id="34917497">
+      <ap id="978">MH-D1CY-1F-18</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2018-05-10T07:02:12+08:00</connect_time>
+      <disconnect_time>2018-05-10T07:10:26+08:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="-" ip_address="10.163.17.3" />
+        <lan hostname="" ip_address="FE80::20A:F5FF:FE8A:2F89" />
+      </lan_elements>
+      <radio_mode>ac</radio_mode>
+      <rssi>46</rssi>
+      <ssid>SJTU</ssid>
+      <username>03c39dca1da30d44d9c37504d9cf9004</username>
+      <vlan>603</vlan>
+    </association>
+    <association id="34913630">
+      <ap id="1892">MH-JJC-2F-207</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2018-05-10T06:45:42+08:00</connect_time>
+      <disconnect_time>2018-05-10T06:53:50+08:00</disconnect_time>
+      <radio_mode>n</radio_mode>
+      <ssid>SJTU</ssid>
+      <username>03c39dca1da30d44d9c37504d9cf9004</username>
+      <vlan>603</vlan>
+    </association>
+    <association id="34912035">
+      <ap id="1892">MH-JJC-2F-207</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2018-05-10T06:40:36+08:00</connect_time>
+      <disconnect_time>2018-05-10T06:45:42+08:00</disconnect_time>
+      <radio_mode>n</radio_mode>
+      <ssid>SJTU</ssid>
+      <username>03c39dca1da30d44d9c37504d9cf9004</username>
+      <vlan>603</vlan>
+    </association>
+    <association id="34911144">
+      <ap id="2347">MH-WZL-1F-02</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2018-05-10T06:38:50+08:00</connect_time>
+      <disconnect_time>2018-05-10T06:40:36+08:00</disconnect_time>
+      <radio_mode>n</radio_mode>
+      <rssi>25</rssi>
+      <ssid>SJTU</ssid>
+      <username>03c39dca1da30d44d9c37504d9cf9004</username>
+      <vlan>603</vlan>
+    </association>
+    <association id="34910884">
+      <ap id="2514">MH-ZWL-2F-202</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2018-05-10T06:35:20+08:00</connect_time>
+      <disconnect_time>2018-05-10T06:38:50+08:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="-" ip_address="10.163.17.3" />
+        <lan hostname="dynamic.ipv6.sjtu.edu.cn" ip_address="2403:D400:1001:3:C1D8:270C:4B2F:315" />
+      </lan_elements>
+      <radio_mode>n</radio_mode>
+      <rssi>20</rssi>
+      <ssid>SJTU</ssid>
+      <username>03c39dca1da30d44d9c37504d9cf9004</username>
+      <vlan>603</vlan>
+    </association>
+    <association id="34910386">
+      <ap id="2405">MH-ZWL-2F-201-3</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2018-05-10T06:34:06+08:00</connect_time>
+      <disconnect_time>2018-05-10T06:35:20+08:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="-" ip_address="10.163.17.3" />
+        <lan hostname="dynamic.ipv6.sjtu.edu.cn" ip_address="2403:D400:1001:3:C1D8:270C:4B2F:315" />
+      </lan_elements>
+      <radio_mode>n</radio_mode>
+      <rssi>15</rssi>
+      <ssid>SJTU</ssid>
+      <username>03c39dca1da30d44d9c37504d9cf9004</username>
+      <vlan>603</vlan>
+    </association>
+    <association id="34910174">
+      <ap id="1258">MH-D1CY-1F-17</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2018-05-10T06:32:04+08:00</connect_time>
+      <disconnect_time>2018-05-10T06:33:50+08:00</disconnect_time>
+      <radio_mode>ac</radio_mode>
+      <ssid>SJTU</ssid>
+      <username>03c39dca1da30d44d9c37504d9cf9004</username>
+      <vlan>603</vlan>
+    </association>
+    <association id="34909868">
+      <ap id="1258">MH-D1CY-1F-17</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2018-05-10T06:25:33+08:00</connect_time>
+      <disconnect_time>2018-05-10T06:32:04+08:00</disconnect_time>
+      <radio_mode>ac</radio_mode>
+      <rssi>13</rssi>
+      <ssid>SJTU</ssid>
+      <username>03c39dca1da30d44d9c37504d9cf9004</username>
+      <vlan>603</vlan>
+    </association>
+    <association id="34909289">
+      <ap id="2465">MH-D1CY-1F-16</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2018-05-10T06:25:15+08:00</connect_time>
+      <disconnect_time>2018-05-10T06:25:33+08:00</disconnect_time>
+      <radio_mode>ac</radio_mode>
+      <rssi>13</rssi>
+      <ssid>SJTU</ssid>
+      <username>03c39dca1da30d44d9c37504d9cf9004</username>
+      <vlan>603</vlan>
+    </association>
+    <association id="34909290">
+      <ap id="1258">MH-D1CY-1F-17</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2018-05-10T06:25:33+08:00</connect_time>
+      <disconnect_time>2018-05-10T06:25:33+08:00</disconnect_time>
+      <radio_mode>ac</radio_mode>
+      <ssid>SJTU</ssid>
+      <username>03c39dca1da30d44d9c37504d9cf9004</username>
+      <vlan>603</vlan>
+    </association>
+    <association id="34909231">
+      <ap id="978">MH-D1CY-1F-18</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2018-05-10T06:14:09+08:00</connect_time>
+      <disconnect_time>2018-05-10T06:25:15+08:00</disconnect_time>
+      <radio_mode>ac</radio_mode>
+      <rssi>42</rssi>
+      <ssid>SJTU</ssid>
+      <username>03c39dca1da30d44d9c37504d9cf9004</username>
+      <vlan>603</vlan>
+    </association>
+    <association id="34908219">
+      <ap id="2799">MH-D1CY-1F-10</ap>
+      <bytes_used>9258300</bytes_used>
+      <connect_time>2018-05-10T06:04:27+08:00</connect_time>
+      <disconnect_time>2018-05-10T06:14:09+08:00</disconnect_time>
+      <radio_mode>ac</radio_mode>
+      <rssi>40</rssi>
+      <ssid>SJTU</ssid>
+      <username>03c39dca1da30d44d9c37504d9cf9004</username>
+      <vlan>603</vlan>
+    </association>
+    <association id="34907376">
+      <ap id="3330">MH-D1CY-1F-15</ap>
+      <bytes_used>9258300</bytes_used>
+      <connect_time>2018-05-10T06:04:07+08:00</connect_time>
+      <disconnect_time>2018-05-10T06:04:27+08:00</disconnect_time>
+      <radio_mode>ac</radio_mode>
+      <ssid>SJTU</ssid>
+      <username>03c39dca1da30d44d9c37504d9cf9004</username>
+      <vlan>603</vlan>
+    </association>
+    <association id="34907338">
+      <ap id="1258">MH-D1CY-1F-17</ap>
+      <bytes_used>13914300</bytes_used>
+      <connect_time>2018-05-10T05:34:04+08:00</connect_time>
+      <disconnect_time>2018-05-10T06:04:07+08:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="dynamic.ipv6.sjtu.edu.cn" ip_address="2403:D400:1001:3:C1D8:270C:4B2F:315" />
+      </lan_elements>
+      <radio_mode>ac</radio_mode>
+      <rssi>25</rssi>
+      <ssid>SJTU</ssid>
+      <username>03c39dca1da30d44d9c37504d9cf9004</username>
+      <vlan>603</vlan>
+    </association>
+    <association id="34907344">
+      <ap id="3330">MH-D1CY-1F-15</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2018-05-10T06:04:07+08:00</connect_time>
+      <disconnect_time>2018-05-10T06:04:07+08:00</disconnect_time>
+      <radio_mode>ac</radio_mode>
+      <ssid>SJTU</ssid>
+      <username>03c39dca1da30d44d9c37504d9cf9004</username>
+      <vlan>603</vlan>
+    </association>
+    <association id="34905383">
+      <ap id="2465">MH-D1CY-1F-16</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2018-05-10T05:31:57+08:00</connect_time>
+      <disconnect_time>2018-05-10T05:34:04+08:00</disconnect_time>
+      <radio_mode>ac</radio_mode>
+      <rssi>27</rssi>
+      <ssid>SJTU</ssid>
+      <username>03c39dca1da30d44d9c37504d9cf9004</username>
+      <vlan>603</vlan>
+    </association>
+    <association id="34905235">
+      <ap id="978">MH-D1CY-1F-18</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2018-05-10T05:27:21+08:00</connect_time>
+      <disconnect_time>2018-05-10T05:31:57+08:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="" ip_address="10.163.17.3" />
+        <lan hostname="-" ip_address="FE80::20A:F5FF:FE8A:2F89" />
+      </lan_elements>
+      <radio_mode>ac</radio_mode>
+      <rssi>30</rssi>
+      <ssid>SJTU</ssid>
+      <username>03c39dca1da30d44d9c37504d9cf9004</username>
+      <vlan>603</vlan>
+    </association>
+    <association id="34905080">
+      <ap id="126">MH-D1CY-2F-04</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2018-05-10T05:19:50+08:00</connect_time>
+      <disconnect_time>2018-05-10T05:27:21+08:00</disconnect_time>
+      <radio_mode>ac</radio_mode>
+      <rssi>26</rssi>
+      <ssid>SJTU</ssid>
+      <username>03c39dca1da30d44d9c37504d9cf9004</username>
+      <vlan>603</vlan>
+    </association>
+    <association id="34904734">
+      <ap id="2799">MH-D1CY-1F-10</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2018-05-10T05:19:10+08:00</connect_time>
+      <disconnect_time>2018-05-10T05:19:50+08:00</disconnect_time>
+      <radio_mode>ac</radio_mode>
+      <rssi>32</rssi>
+      <ssid>SJTU</ssid>
+      <username>03c39dca1da30d44d9c37504d9cf9004</username>
+      <vlan>603</vlan>
+    </association>
+    <association id="34904692">
+      <ap id="978">MH-D1CY-1F-18</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2018-05-10T05:15:09+08:00</connect_time>
+      <disconnect_time>2018-05-10T05:19:10+08:00</disconnect_time>
+      <radio_mode>ac</radio_mode>
+      <rssi>14</rssi>
+      <ssid>SJTU</ssid>
+      <username>03c39dca1da30d44d9c37504d9cf9004</username>
+      <vlan>603</vlan>
+    </association>
+    <association id="34904539">
+      <ap id="3330">MH-D1CY-1F-15</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2018-05-10T05:13:22+08:00</connect_time>
+      <disconnect_time>2018-05-10T05:15:09+08:00</disconnect_time>
+      <radio_mode>ac</radio_mode>
+      <rssi>35</rssi>
+      <ssid>SJTU</ssid>
+      <username>03c39dca1da30d44d9c37504d9cf9004</username>
+      <vlan>603</vlan>
+    </association>
+    <association id="34904448">
+      <ap id="3330">MH-D1CY-1F-15</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2018-05-10T05:13:18+08:00</connect_time>
+      <disconnect_time>2018-05-10T05:13:22+08:00</disconnect_time>
+      <radio_mode>n</radio_mode>
+      <rssi>42</rssi>
+      <ssid>SJTU</ssid>
+      <username>03c39dca1da30d44d9c37504d9cf9004</username>
+      <vlan>603</vlan>
+    </association>
+    <association id="34904444">
+      <ap id="2799">MH-D1CY-1F-10</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2018-05-10T05:12:43+08:00</connect_time>
+      <disconnect_time>2018-05-10T05:13:18+08:00</disconnect_time>
+      <radio_mode>ac</radio_mode>
+      <rssi>42</rssi>
+      <ssid>SJTU</ssid>
+      <username>03c39dca1da30d44d9c37504d9cf9004</username>
+      <vlan>603</vlan>
+    </association>
+    <association id="34904421">
+      <ap id="3417">MH-D1CY-1F-04</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2018-05-10T05:11:39+08:00</connect_time>
+      <disconnect_time>2018-05-10T05:12:43+08:00</disconnect_time>
+      <radio_mode>ac</radio_mode>
+      <rssi>52</rssi>
+      <ssid>SJTU</ssid>
+      <username>03c39dca1da30d44d9c37504d9cf9004</username>
+      <vlan>603</vlan>
+    </association>
+    <association id="34904372">
+      <ap id="2716">MH-D1CY-1F-07</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2018-05-10T05:10:09+08:00</connect_time>
+      <disconnect_time>2018-05-10T05:11:39+08:00</disconnect_time>
+      <radio_mode>ac</radio_mode>
+      <rssi>37</rssi>
+      <ssid>SJTU</ssid>
+      <username>03c39dca1da30d44d9c37504d9cf9004</username>
+      <vlan>603</vlan>
+    </association>
+    <association id="34904325">
+      <ap id="3117">MH-D1CY-1F-11</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2018-05-10T05:09:28+08:00</connect_time>
+      <disconnect_time>2018-05-10T05:10:09+08:00</disconnect_time>
+      <radio_mode>ac</radio_mode>
+      <ssid>SJTU</ssid>
+      <username>03c39dca1da30d44d9c37504d9cf9004</username>
+      <vlan>603</vlan>
+    </association>
+    <association id="34904289">
+      <ap id="2465">MH-D1CY-1F-16</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2018-05-10T05:03:41+08:00</connect_time>
+      <disconnect_time>2018-05-10T05:09:28+08:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="" ip_address="10.163.17.3" />
+        <lan hostname="-" ip_address="FE80::20A:F5FF:FE8A:2F89" />
+      </lan_elements>
+      <radio_mode>ac</radio_mode>
+      <rssi>27</rssi>
+      <ssid>SJTU</ssid>
+      <username>03c39dca1da30d44d9c37504d9cf9004</username>
+      <vlan>603</vlan>
+    </association>
+    <association id="34713523">
+      <ap id="2465">MH-D1CY-1F-16</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2018-05-09T19:43:29+08:00</connect_time>
+      <disconnect_time>2018-05-09T19:43:30+08:00</disconnect_time>
+      <radio_mode>n</radio_mode>
+      <ssid>SJTU</ssid>
+      <username>03c39dca1da30d44d9c37504d9cf9004</username>
+      <vlan>603</vlan>
+    </association>
+    <association id="34708358">
+      <ap id="2465">MH-D1CY-1F-16</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2018-05-09T19:15:32+08:00</connect_time>
+      <disconnect_time>2018-05-09T19:26:50+08:00</disconnect_time>
+      <radio_mode>ac</radio_mode>
+      <rssi>27</rssi>
+      <ssid>SJTU</ssid>
+      <username>03c39dca1da30d44d9c37504d9cf9004</username>
+      <vlan>603</vlan>
+    </association>
+    <association id="34701761">
+      <ap id="978">MH-D1CY-1F-18</ap>
+      <bytes_used>106800</bytes_used>
+      <connect_time>2018-05-09T18:54:50+08:00</connect_time>
+      <disconnect_time>2018-05-09T19:15:32+08:00</disconnect_time>
+      <radio_mode>ac</radio_mode>
+      <rssi>29</rssi>
+      <ssid>SJTU</ssid>
+      <username>03c39dca1da30d44d9c37504d9cf9004</username>
+      <vlan>603</vlan>
+    </association>
+    <association id="34691870">
+      <ap id="2465">MH-D1CY-1F-16</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2018-05-09T18:46:50+08:00</connect_time>
+      <disconnect_time>2018-05-09T18:54:50+08:00</disconnect_time>
+      <radio_mode>ac</radio_mode>
+      <rssi>29</rssi>
+      <ssid>SJTU</ssid>
+      <username>03c39dca1da30d44d9c37504d9cf9004</username>
+      <vlan>603</vlan>
+    </association>
+    <association id="34688698">
+      <ap id="2465">MH-D1CY-1F-16</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2018-05-09T18:36:50+08:00</connect_time>
+      <disconnect_time>2018-05-09T18:46:50+08:00</disconnect_time>
+      <radio_mode>n</radio_mode>
+      <rssi>29</rssi>
+      <ssid>SJTU</ssid>
+      <username>03c39dca1da30d44d9c37504d9cf9004</username>
+      <vlan>603</vlan>
+    </association>
+    <association id="34684361">
+      <ap id="1258">MH-D1CY-1F-17</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2018-05-09T18:33:50+08:00</connect_time>
+      <disconnect_time>2018-05-09T18:36:50+08:00</disconnect_time>
+      <radio_mode>ac</radio_mode>
+      <rssi>29</rssi>
+      <ssid>SJTU</ssid>
+      <username>03c39dca1da30d44d9c37504d9cf9004</username>
+      <vlan>603</vlan>
+    </association>
+    <association id="34680512">
+      <ap id="2465">MH-D1CY-1F-16</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2018-05-09T18:16:50+08:00</connect_time>
+      <disconnect_time>2018-05-09T18:26:50+08:00</disconnect_time>
+      <radio_mode>n</radio_mode>
+      <rssi>26</rssi>
+      <ssid>SJTU</ssid>
+      <username>03c39dca1da30d44d9c37504d9cf9004</username>
+      <vlan>603</vlan>
+    </association>
+    <association id="34675213">
+      <ap id="978">MH-D1CY-1F-18</ap>
+      <bytes_used>69000</bytes_used>
+      <connect_time>2018-05-09T18:04:50+08:00</connect_time>
+      <disconnect_time>2018-05-09T18:16:50+08:00</disconnect_time>
+      <radio_mode>ac</radio_mode>
+      <rssi>25</rssi>
+      <ssid>SJTU</ssid>
+      <username>03c39dca1da30d44d9c37504d9cf9004</username>
+      <vlan>603</vlan>
+    </association>
+    <association id="34668846">
+      <ap id="1258">MH-D1CY-1F-17</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2018-05-09T18:03:50+08:00</connect_time>
+      <disconnect_time>2018-05-09T18:04:50+08:00</disconnect_time>
+      <radio_mode>ac</radio_mode>
+      <rssi>22</rssi>
+      <ssid>SJTU</ssid>
+      <username>03c39dca1da30d44d9c37504d9cf9004</username>
+      <vlan>603</vlan>
+    </association>
+    <association id="34667761">
+      <ap id="2465">MH-D1CY-1F-16</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2018-05-09T17:56:50+08:00</connect_time>
+      <disconnect_time>2018-05-09T18:03:50+08:00</disconnect_time>
+      <radio_mode>ac</radio_mode>
+      <rssi>23</rssi>
+      <ssid>SJTU</ssid>
+      <username>03c39dca1da30d44d9c37504d9cf9004</username>
+      <vlan>603</vlan>
+    </association>
+    <association id="34662392">
+      <ap id="2465">MH-D1CY-1F-16</ap>
+      <bytes_used>114000</bytes_used>
+      <connect_time>2018-05-09T17:36:50+08:00</connect_time>
+      <disconnect_time>2018-05-09T17:56:50+08:00</disconnect_time>
+      <radio_mode>n</radio_mode>
+      <rssi>26</rssi>
+      <ssid>SJTU</ssid>
+      <username>03c39dca1da30d44d9c37504d9cf9004</username>
+      <vlan>603</vlan>
+    </association>
+    <association id="34649977">
+      <ap id="1258">MH-D1CY-1F-17</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2018-05-09T17:33:50+08:00</connect_time>
+      <disconnect_time>2018-05-09T17:36:50+08:00</disconnect_time>
+      <radio_mode>n</radio_mode>
+      <rssi>18</rssi>
+      <ssid>SJTU</ssid>
+      <username>03c39dca1da30d44d9c37504d9cf9004</username>
+      <vlan>603</vlan>
+    </association>
+    <association id="34647831">
+      <ap id="978">MH-D1CY-1F-18</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2018-05-09T17:24:50+08:00</connect_time>
+      <disconnect_time>2018-05-09T17:33:50+08:00</disconnect_time>
+      <radio_mode>ac</radio_mode>
+      <rssi>28</rssi>
+      <ssid>SJTU</ssid>
+      <username>03c39dca1da30d44d9c37504d9cf9004</username>
+      <vlan>603</vlan>
+    </association>
+    <association id="34643135">
+      <ap id="2465">MH-D1CY-1F-16</ap>
+      <bytes_used>373200</bytes_used>
+      <connect_time>2018-05-09T16:36:50+08:00</connect_time>
+      <disconnect_time>2018-05-09T17:24:50+08:00</disconnect_time>
+      <radio_mode>n</radio_mode>
+      <rssi>29</rssi>
+      <ssid>SJTU</ssid>
+      <username>03c39dca1da30d44d9c37504d9cf9004</username>
+      <vlan>603</vlan>
+    </association>
+    <association id="34620682">
+      <ap id="2465">MH-D1CY-1F-16</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2018-05-09T16:26:50+08:00</connect_time>
+      <disconnect_time>2018-05-09T16:36:50+08:00</disconnect_time>
+      <radio_mode>ac</radio_mode>
+      <rssi>32</rssi>
+      <ssid>SJTU</ssid>
+      <username>03c39dca1da30d44d9c37504d9cf9004</username>
+      <vlan>603</vlan>
+    </association>
+    <association id="34617164">
+      <ap id="978">MH-D1CY-1F-18</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2018-05-09T16:24:50+08:00</connect_time>
+      <disconnect_time>2018-05-09T16:26:50+08:00</disconnect_time>
+      <radio_mode>n</radio_mode>
+      <rssi>27</rssi>
+      <ssid>SJTU</ssid>
+      <username>03c39dca1da30d44d9c37504d9cf9004</username>
+      <vlan>603</vlan>
+    </association>
+    <association id="34616835">
+      <ap id="1258">MH-D1CY-1F-17</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2018-05-09T16:23:50+08:00</connect_time>
+      <disconnect_time>2018-05-09T16:24:50+08:00</disconnect_time>
+      <radio_mode>n</radio_mode>
+      <rssi>30</rssi>
+      <ssid>SJTU</ssid>
+      <username>03c39dca1da30d44d9c37504d9cf9004</username>
+      <vlan>603</vlan>
+    </association>
+    <association id="34611093">
+      <ap id="978">MH-D1CY-1F-18</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2018-05-09T16:04:50+08:00</connect_time>
+      <disconnect_time>2018-05-09T16:14:50+08:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="-" ip_address="10.163.97.73" />
+        <lan hostname="dynamic.ipv6.sjtu.edu.cn" ip_address="2403:D400:1001:3:C1D8:270C:4B2F:315" />
+      </lan_elements>
+      <radio_mode>ac</radio_mode>
+      <rssi>35</rssi>
+      <ssid>SJTU</ssid>
+      <username>03c39dca1da30d44d9c37504d9cf9004</username>
+      <vlan>603</vlan>
+    </association>
+    <association id="34601413">
+      <ap id="1258">MH-D1CY-1F-17</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2018-05-09T16:03:15+08:00</connect_time>
+      <disconnect_time>2018-05-09T16:04:50+08:00</disconnect_time>
+      <radio_mode>ac</radio_mode>
+      <rssi>42</rssi>
+      <ssid>SJTU</ssid>
+      <username>03c39dca1da30d44d9c37504d9cf9004</username>
+      <vlan>603</vlan>
+    </association>
+    <association id="34599320">
+      <ap id="1258">MH-D1CY-1F-17</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2018-05-09T16:03:11+08:00</connect_time>
+      <disconnect_time>2018-05-09T16:03:15+08:00</disconnect_time>
+      <radio_mode>n</radio_mode>
+      <ssid>SJTU</ssid>
+      <username>03c39dca1da30d44d9c37504d9cf9004</username>
+      <vlan>603</vlan>
+    </association>
+    <association id="34578973">
+      <ap id="3412">MH-D1CY-1F-09</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2018-05-09T15:13:50+08:00</connect_time>
+      <disconnect_time>2018-05-09T15:23:50+08:00</disconnect_time>
+      <radio_mode>ac</radio_mode>
+      <rssi>32</rssi>
+      <ssid>SJTU</ssid>
+      <username>03c39dca1da30d44d9c37504d9cf9004</username>
+      <vlan>603</vlan>
+    </association>
+    <association id="34574339">
+      <ap id="2465">MH-D1CY-1F-16</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2018-05-09T15:06:50+08:00</connect_time>
+      <disconnect_time>2018-05-09T15:13:50+08:00</disconnect_time>
+      <radio_mode>ac</radio_mode>
+      <rssi>26</rssi>
+      <ssid>SJTU</ssid>
+      <username>03c39dca1da30d44d9c37504d9cf9004</username>
+      <vlan>603</vlan>
+    </association>
+    <association id="34571963">
+      <ap id="978">MH-D1CY-1F-18</ap>
+      <bytes_used>574500</bytes_used>
+      <connect_time>2018-05-09T13:44:50+08:00</connect_time>
+      <disconnect_time>2018-05-09T15:06:50+08:00</disconnect_time>
+      <radio_mode>ac</radio_mode>
+      <rssi>46</rssi>
+      <ssid>SJTU</ssid>
+      <username>03c39dca1da30d44d9c37504d9cf9004</username>
+      <vlan>603</vlan>
+    </association>
+    <association id="34538000">
+      <ap id="2465">MH-D1CY-1F-16</ap>
+      <bytes_used>60000</bytes_used>
+      <connect_time>2018-05-09T13:26:50+08:00</connect_time>
+      <disconnect_time>2018-05-09T13:44:50+08:00</disconnect_time>
+      <radio_mode>ac</radio_mode>
+      <rssi>34</rssi>
+      <ssid>SJTU</ssid>
+      <username>03c39dca1da30d44d9c37504d9cf9004</username>
+      <vlan>603</vlan>
+    </association>
+    <association id="34529942">
+      <ap id="978">MH-D1CY-1F-18</ap>
+      <bytes_used>597000</bytes_used>
+      <connect_time>2018-05-09T11:44:50+08:00</connect_time>
+      <disconnect_time>2018-05-09T13:26:50+08:00</disconnect_time>
+      <radio_mode>ac</radio_mode>
+      <rssi>33</rssi>
+      <ssid>SJTU</ssid>
+      <username>03c39dca1da30d44d9c37504d9cf9004</username>
+      <vlan>603</vlan>
+    </association>
+    <association id="34461693">
+      <ap id="2465">MH-D1CY-1F-16</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2018-05-09T11:36:50+08:00</connect_time>
+      <disconnect_time>2018-05-09T11:44:50+08:00</disconnect_time>
+      <radio_mode>n</radio_mode>
+      <rssi>31</rssi>
+      <ssid>SJTU</ssid>
+      <username>03c39dca1da30d44d9c37504d9cf9004</username>
+      <vlan>603</vlan>
+    </association>
+    <association id="34450992">
+      <ap id="978">MH-D1CY-1F-18</ap>
+      <bytes_used>78600</bytes_used>
+      <connect_time>2018-05-09T11:14:50+08:00</connect_time>
+      <disconnect_time>2018-05-09T11:34:50+08:00</disconnect_time>
+      <radio_mode>ac</radio_mode>
+      <rssi>29</rssi>
+      <ssid>SJTU</ssid>
+      <username>03c39dca1da30d44d9c37504d9cf9004</username>
+      <vlan>603</vlan>
+    </association>
+    <association id="34439051">
+      <ap id="2465">MH-D1CY-1F-16</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2018-05-09T10:56:50+08:00</connect_time>
+      <disconnect_time>2018-05-09T11:14:50+08:00</disconnect_time>
+      <radio_mode>ac</radio_mode>
+      <rssi>30</rssi>
+      <ssid>SJTU</ssid>
+      <username>03c39dca1da30d44d9c37504d9cf9004</username>
+      <vlan>603</vlan>
+    </association>
+    <association id="34430423">
+      <ap id="978">MH-D1CY-1F-18</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2018-05-09T10:54:50+08:00</connect_time>
+      <disconnect_time>2018-05-09T10:56:50+08:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="-" ip_address="2403:D400:1001:3:C1D8:270C:4B2F:315" />
+      </lan_elements>
+      <radio_mode>ac</radio_mode>
+      <rssi>44</rssi>
+      <ssid>SJTU</ssid>
+      <username>03c39dca1da30d44d9c37504d9cf9004</username>
+      <vlan>603</vlan>
+    </association>
+    <association id="34426315">
+      <ap id="2799">MH-D1CY-1F-10</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2018-05-09T10:36:50+08:00</connect_time>
+      <disconnect_time>2018-05-09T10:46:50+08:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="-" ip_address="10.163.97.73" />
+        <lan hostname="" ip_address="FE80::20A:F5FF:FE8A:2F89" />
+      </lan_elements>
+      <radio_mode>ac</radio_mode>
+      <rssi>50</rssi>
+      <ssid>SJTU</ssid>
+      <username>03c39dca1da30d44d9c37504d9cf9004</username>
+      <vlan>603</vlan>
+    </association>
+    <association id="34422801">
+      <ap id="978">MH-D1CY-1F-18</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2018-05-09T10:34:50+08:00</connect_time>
+      <disconnect_time>2018-05-09T10:36:50+08:00</disconnect_time>
+      <radio_mode>ac</radio_mode>
+      <rssi>50</rssi>
+      <ssid>SJTU</ssid>
+      <username>03c39dca1da30d44d9c37504d9cf9004</username>
+      <vlan>603</vlan>
+    </association>
+    <association id="34418121">
+      <ap id="978">MH-D1CY-1F-18</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2018-05-09T10:14:50+08:00</connect_time>
+      <disconnect_time>2018-05-09T10:24:50+08:00</disconnect_time>
+      <radio_mode>ac</radio_mode>
+      <rssi>30</rssi>
+      <ssid>SJTU</ssid>
+      <username>03c39dca1da30d44d9c37504d9cf9004</username>
+      <vlan>603</vlan>
+    </association>
+    <association id="34414578">
+      <ap id="1258">MH-D1CY-1F-17</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2018-05-09T10:13:50+08:00</connect_time>
+      <disconnect_time>2018-05-09T10:14:50+08:00</disconnect_time>
+      <radio_mode>n</radio_mode>
+      <rssi>31</rssi>
+      <ssid>SJTU</ssid>
+      <username>03c39dca1da30d44d9c37504d9cf9004</username>
+      <vlan>603</vlan>
+    </association>
+    <association id="34413964">
+      <ap id="2465">MH-D1CY-1F-16</ap>
+      <bytes_used>183300</bytes_used>
+      <connect_time>2018-05-09T09:44:50+08:00</connect_time>
+      <disconnect_time>2018-05-09T10:13:50+08:00</disconnect_time>
+      <radio_mode>ac</radio_mode>
+      <rssi>32</rssi>
+      <ssid>SJTU</ssid>
+      <username>03c39dca1da30d44d9c37504d9cf9004</username>
+      <vlan>603</vlan>
+    </association>
+    <association id="34392897">
+      <ap id="2465">MH-D1CY-1F-16</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2018-05-09T09:34:50+08:00</connect_time>
+      <disconnect_time>2018-05-09T09:44:50+08:00</disconnect_time>
+      <radio_mode>n</radio_mode>
+      <rssi>33</rssi>
+      <ssid>SJTU</ssid>
+      <username>03c39dca1da30d44d9c37504d9cf9004</username>
+      <vlan>603</vlan>
+    </association>
+    <association id="34379726">
+      <ap id="2465">MH-D1CY-1F-16</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2018-05-09T09:17:15+08:00</connect_time>
+      <disconnect_time>2018-05-09T09:34:50+08:00</disconnect_time>
+      <radio_mode>ac</radio_mode>
+      <rssi>29</rssi>
+      <ssid>SJTU</ssid>
+      <username>03c39dca1da30d44d9c37504d9cf9004</username>
+      <vlan>603</vlan>
+    </association>
+    <association id="34370055">
+      <ap id="978">MH-D1CY-1F-18</ap>
+      <bytes_used>642900</bytes_used>
+      <connect_time>2018-05-09T08:00:15+08:00</connect_time>
+      <disconnect_time>2018-05-09T09:17:15+08:00</disconnect_time>
+      <radio_mode>n</radio_mode>
+      <rssi>24</rssi>
+      <ssid>SJTU</ssid>
+      <username>03c39dca1da30d44d9c37504d9cf9004</username>
+      <vlan>603</vlan>
+    </association>
+    <association id="34370095">
+      <ap id="2465">MH-D1CY-1F-16</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2018-05-09T09:17:15+08:00</connect_time>
+      <disconnect_time>2018-05-09T09:17:15+08:00</disconnect_time>
+      <radio_mode>ac</radio_mode>
+      <ssid>SJTU</ssid>
+      <username>03c39dca1da30d44d9c37504d9cf9004</username>
+      <vlan>603</vlan>
+    </association>
+    <association id="34302036">
+      <ap id="978">MH-D1CY-1F-18</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2018-05-09T08:00:14+08:00</connect_time>
+      <disconnect_time>2018-05-09T08:00:15+08:00</disconnect_time>
+      <radio_mode>n</radio_mode>
+      <ssid>SJTU</ssid>
+      <username>03c39dca1da30d44d9c37504d9cf9004</username>
+      <vlan>603</vlan>
+    </association>
+    <association id="34302035">
+      <ap id="2465">MH-D1CY-1F-16</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2018-05-09T07:54:50+08:00</connect_time>
+      <disconnect_time>2018-05-09T08:00:14+08:00</disconnect_time>
+      <radio_mode>n</radio_mode>
+      <rssi>27</rssi>
+      <ssid>SJTU</ssid>
+      <username>03c39dca1da30d44d9c37504d9cf9004</username>
+      <vlan>603</vlan>
+    </association>
+    <association id="34291840">
+      <ap id="978">MH-D1CY-1F-18</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2018-05-09T07:49:15+08:00</connect_time>
+      <disconnect_time>2018-05-09T07:54:50+08:00</disconnect_time>
+      <radio_mode>ac</radio_mode>
+      <rssi>26</rssi>
+      <ssid>SJTU</ssid>
+      <username>03c39dca1da30d44d9c37504d9cf9004</username>
+      <vlan>603</vlan>
+    </association>
+    <association id="34282859">
+      <ap id="2465">MH-D1CY-1F-16</ap>
+      <bytes_used>291000</bytes_used>
+      <connect_time>2018-05-09T07:24:50+08:00</connect_time>
+      <disconnect_time>2018-05-09T07:49:15+08:00</disconnect_time>
+      <radio_mode>ac</radio_mode>
+      <rssi>29</rssi>
+      <ssid>SJTU</ssid>
+      <username>03c39dca1da30d44d9c37504d9cf9004</username>
+      <vlan>603</vlan>
+    </association>
+    <association id="34264954">
+      <ap id="1258">MH-D1CY-1F-17</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2018-05-09T07:20:20+08:00</connect_time>
+      <disconnect_time>2018-05-09T07:24:50+08:00</disconnect_time>
+      <radio_mode>ac</radio_mode>
+      <rssi>27</rssi>
+      <ssid>SJTU</ssid>
+      <username>03c39dca1da30d44d9c37504d9cf9004</username>
+      <vlan>603</vlan>
+    </association>
+    <association id="34263824">
+      <ap id="978">MH-D1CY-1F-18</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2018-05-09T07:19:24+08:00</connect_time>
+      <disconnect_time>2018-05-09T07:20:20+08:00</disconnect_time>
+      <radio_mode>ac</radio_mode>
+      <ssid>SJTU</ssid>
+      <username>03c39dca1da30d44d9c37504d9cf9004</username>
+      <vlan>603</vlan>
+    </association>
+    <association id="34263828">
+      <ap id="1258">MH-D1CY-1F-17</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2018-05-09T07:20:20+08:00</connect_time>
+      <disconnect_time>2018-05-09T07:20:20+08:00</disconnect_time>
+      <radio_mode>ac</radio_mode>
+      <ssid>SJTU</ssid>
+      <username>03c39dca1da30d44d9c37504d9cf9004</username>
+      <vlan>603</vlan>
+    </association>
+    <association id="34263544">
+      <ap id="978">MH-D1CY-1F-18</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2018-05-09T07:18:06+08:00</connect_time>
+      <disconnect_time>2018-05-09T07:19:24+08:00</disconnect_time>
+      <radio_mode>n</radio_mode>
+      <ssid>SJTU</ssid>
+      <username>03c39dca1da30d44d9c37504d9cf9004</username>
+      <vlan>603</vlan>
+    </association>
+    <association id="34263169">
+      <ap id="2465">MH-D1CY-1F-16</ap>
+      <bytes_used>488100</bytes_used>
+      <connect_time>2018-05-09T06:21:09+08:00</connect_time>
+      <disconnect_time>2018-05-09T07:18:06+08:00</disconnect_time>
+      <radio_mode>n</radio_mode>
+      <rssi>27</rssi>
+      <ssid>SJTU</ssid>
+      <username>03c39dca1da30d44d9c37504d9cf9004</username>
+      <vlan>603</vlan>
+    </association>
+    <association id="34263175">
+      <ap id="978">MH-D1CY-1F-18</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2018-05-09T07:18:06+08:00</connect_time>
+      <disconnect_time>2018-05-09T07:18:06+08:00</disconnect_time>
+      <radio_mode>n</radio_mode>
+      <ssid>SJTU</ssid>
+      <username>03c39dca1da30d44d9c37504d9cf9004</username>
+      <vlan>603</vlan>
+    </association>
+    <association id="34252980">
+      <ap id="2465">MH-D1CY-1F-16</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2018-05-09T06:21:00+08:00</connect_time>
+      <disconnect_time>2018-05-09T06:21:09+08:00</disconnect_time>
+      <radio_mode>n</radio_mode>
+      <ssid>SJTU</ssid>
+      <username>03c39dca1da30d44d9c37504d9cf9004</username>
+      <vlan>603</vlan>
+    </association>
+    <association id="34252966">
+      <ap id="1258">MH-D1CY-1F-17</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2018-05-09T06:10:06+08:00</connect_time>
+      <disconnect_time>2018-05-09T06:21:00+08:00</disconnect_time>
+      <radio_mode>ac</radio_mode>
+      <rssi>31</rssi>
+      <ssid>SJTU</ssid>
+      <username>03c39dca1da30d44d9c37504d9cf9004</username>
+      <vlan>603</vlan>
+    </association>
+    <association id="34252204">
+      <ap id="978">MH-D1CY-1F-18</ap>
+      <bytes_used>17987700</bytes_used>
+      <connect_time>2018-05-09T05:32:32+08:00</connect_time>
+      <disconnect_time>2018-05-09T06:10:06+08:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="-" ip_address="10.163.97.73" />
+        <lan hostname="" ip_address="FE80::20A:F5FF:FE8A:2F89" />
+      </lan_elements>
+      <radio_mode>ac</radio_mode>
+      <rssi>28</rssi>
+      <ssid>SJTU</ssid>
+      <username>03c39dca1da30d44d9c37504d9cf9004</username>
+      <vlan>603</vlan>
+    </association>
+    <auth_stat>false</auth_stat>
+    <radio_mode>ac</radio_mode>
+    <rssi>46</rssi>
+    <ssid>SJTU</ssid>
+    <username>03c39dca1da30d44d9c37504d9cf9004</username>
+    <vendor>Airgo Networks, Inc.</vendor>
+    <vlan>603</vlan>
+  </client>
+</ns0:amp_client_detail>
